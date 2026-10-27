@@ -75,8 +75,7 @@ The project documentation reports a best accuracy of approximately **97.9%**, wi
 ├── setup.sh                  # Dependency and NLTK resource setup
 ├── Procfile                  # Process command for compatible deployment services
 ├── nltk.txt                  # NLTK resource reference
-└── docs/
-    └── run-guide-ar.txt      # Arabic operating guide
+└── run-guide-ar.txt          # Arabic operating guide
 ```
 
 ## Installation
